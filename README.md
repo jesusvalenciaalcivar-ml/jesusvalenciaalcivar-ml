@@ -2,13 +2,14 @@
 
 # Jesús Miguel Valencia Alcívar &nbsp;✦
 
-`Java` · `Spring Boot` · `PostgreSQL` · `Angular` · `Docker`
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jesusvalenciaalcivar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 
-Soy estudiante de Ingeniería de Software con experiencia en entornos profesionales y una fuerte vocación por la arquitectura de sistemas. Mi enfoque principal es el desarrollo backend corporativo utilizando Java y Spring Boot. A lo largo de mis proyectos y experiencia práctica, he desarrollado una visión integral de las aplicaciones, lo que me permite diseñar bases de datos eficientes, construir APIs propias y conectarlas exitosamente con aplicaciones nativas de Android y plataformas frontend.
+Soy estudiante de **Ingeniería de Software** con experiencia en entornos profesionales y una fuerte vocación por la arquitectura de sistemas. Mi experiencia práctica, incluyendo mi paso por **BeGroup S.A.**, me ha dado una visión integral del ciclo de vida del software.
 
-[Email](mailto:jesusvalenciaalcivar@gmail.com)
+Mi enfoque principal es el desarrollo backend corporativo. Me especializo en diseñar bases de datos eficientes y construir APIs sólidas con **Java y Spring Boot**, conectándolas exitosamente con interfaces frontend y aplicaciones nativas de Android.
 
-## Stack
+## 🛠️ Stack Tecnológico
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,docker,githubactions,git,firebase&theme=dark" alt="Java, Spring Boot, PostgreSQL, Angular, Docker, GitHub Actions, Git, Firebase" />
@@ -19,17 +20,16 @@ Soy estudiante de Ingeniería de Software con experiencia en entornos profesiona
   <sub>Aprendiendo: AWS</sub>
 </p>
 
-## Proyectos
+## 🚀 Proyectos Destacados
 
 | Proyecto | Qué es | Stack |
 |---|---|---|
-| **[JavaAppStudy · Backend](https://github.com/jesusvalenciaalcivar-ml/java-appstudy-backend)** | API REST de la plataforma: autenticación con JWT, gestión de lecciones, progreso y logros. Modelo de datos relacional propio. | Java · Spring Boot · Spring Security · PostgreSQL · JPA |
-| **[JavaAppStudy · Android](https://github.com/jesusvalenciaalcivar-ml/javaappstudy-android)** | App móvil para aprender Java: lecciones interactivas, roadmap visual, glosario, trivias y sistema de logros. Consume la API de arriba. | Kotlin · Jetpack Compose · MVVM · Retrofit · DataStore |
+| **[JavaAppStudy · Backend](https://github.com/jesusvalenciaalcivar-ml/java-appstudy-backend)** | API REST de la plataforma: autenticación con JWT, gestión de lecciones, progreso y logros. Modelo de datos relacional propio. | Java · Spring Boot · PostgreSQL |
+| **[JavaAppStudy · Android](https://github.com/jesusvalenciaalcivar-ml/javaappstudy-android)** | App móvil para aprender Java: lecciones interactivas, roadmap visual, glosario y sistema de logros. Consume la API principal. | Kotlin · Jetpack Compose · MVVM |
 | **[backend-batidos](https://github.com/jesusvalenciaalcivar-ml/backend-batidos)** | Servicio de pedidos: catálogo de productos y recepción de comprobantes de pago. | Java · Spring Boot |
-| **[dron-control](https://github.com/jesusvalenciaalcivar-ml/dron-control)** | *(pendiente de descripción)* | Kotlin |
+| **[dron-control](https://github.com/jesusvalenciaalcivar-ml/dron-control)** | Sistema de control, monitoreo y simulación de rastreo (TDOA) para estabilización de drones. | Kotlin |
 
-
-## Actividad
+## 📊 Actividad
 
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=jesusvalenciaalcivar-ml&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=22D3EE" alt="Estadísticas de GitHub" />
