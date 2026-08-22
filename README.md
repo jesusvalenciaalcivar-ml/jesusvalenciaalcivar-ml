@@ -5,9 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jesusvalenciaalcivar@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-perfil)
 
-Soy estudiante de **Ingeniería de Software** con experiencia en entornos profesionales y una fuerte vocación por la arquitectura de sistemas. Mi experiencia práctica, incluyendo mi paso por **BeGroup S.A.**, me ha dado una visión integral del ciclo de vida del software.
-
-Mi enfoque principal es el desarrollo backend corporativo. Me especializo en diseñar bases de datos eficientes y construir APIs sólidas con **Java y Spring Boot**, conectándolas exitosamente con interfaces frontend y aplicaciones nativas de Android.
+Soy estudiante de Ingeniería de Software con experiencia en entornos profesionales y una fuerte vocación por la arquitectura de sistemas. Mi enfoque principal es el desarrollo backend corporativo utilizando Java y Spring Boot. A lo largo de mis proyectos y experiencia práctica, he desarrollado una visión integral de las aplicaciones, lo que me permite diseñar bases de datos eficientes, construir APIs propias y conectarlas exitosamente con aplicaciones nativas de Android y plataformas frontend.
 
 ## 🛠️ Stack Tecnológico
 
