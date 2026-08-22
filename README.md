@@ -25,7 +25,7 @@ Soy estudiante de Ingeniería de Software con experiencia en entornos profesiona
 | **[JavaAppStudy · Backend](https://github.com/jesusvalenciaalcivar-ml/java-appstudy-backend)** | API REST de la plataforma: autenticación con JWT, gestión de lecciones, progreso y logros. Modelo de datos relacional propio. | Java · Spring Boot · PostgreSQL |
 | **[JavaAppStudy · Android](https://github.com/jesusvalenciaalcivar-ml/javaappstudy-android)** | App móvil para aprender Java: lecciones interactivas, roadmap visual, glosario y sistema de logros. Consume la API principal. | Kotlin · Jetpack Compose · MVVM |
 | **[backend-batidos](https://github.com/jesusvalenciaalcivar-ml/backend-batidos)** | Servicio de pedidos: catálogo de productos y recepción de comprobantes de pago. | Java · Spring Boot |
-| **[dron-control](https://github.com/jesusvalenciaalcivar-ml/dron-control)** | Sistema de control, monitoreo y simulación de rastreo (TDOA) para estabilización de drones. | Kotlin |
+| **[dron-control](https://github.com/jesusvalenciaalcivar-ml/dron-control)** | Sistema de control, monitoreo y simulación de rastreo para estabilización de drones. | Kotlin |
 
 ## 📊 Actividad
 
