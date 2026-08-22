@@ -11,11 +11,11 @@ Construyo apps Android nativas y plataformas web. Estudiante de ingeniería, con
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,flutter,angular,react,nodejs,spring,postgres,firebase&theme=dark" alt="Kotlin, Flutter, Angular, React, Node.js, Spring Boot, PostgreSQL, Firebase" />
+  <img src="https://skillicons.dev/icons?i=java,docker,angular,git,spring,postgres,firebase&theme=dark" alt="Java, Docker, Angular, Git, Spring Boot, PostgreSQL, Firebase" />
 </p>
 
 <p align="center">
-  <sub>También: Java · TypeScript · Jetpack Compose · Express · Docker · Git</sub>
+  <sub>También: Kotlin · TypeScript · Jetpack Compose · Express · Flutter </sub>
 </p>
 
 ## Proyectos
