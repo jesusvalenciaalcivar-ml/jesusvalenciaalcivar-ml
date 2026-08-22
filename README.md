@@ -14,7 +14,7 @@ Soy estudiante de Ingeniería de Software con experiencia en entornos profesiona
 </p>
 
 <p align="center">
-  <sub>También: Kotlin · Jetpack Compose · TypeScript</sub><br/>
+  <sub>También se un poco de: Kotlin · Jetpack Compose · TypeScript</sub><br/>
   <sub>Aprendiendo: AWS</sub>
 </p>
 
