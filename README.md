@@ -1,6 +1,6 @@
-<sub><b>S O F T W A R E &nbsp; D E V E L O P E R &nbsp; · &nbsp; C A Y A M B E , &nbsp; E C</b></sub>
+<sub><b>S O F T W A R E &nbsp; D E V E L O P E R &nbsp; · &nbsp; EL CARMEN - MANABI , &nbsp; E C</b></sub>
 
-# Jesús Valencia Alcívar &nbsp;✦
+# Jesús Miguel Valencia Alcívar &nbsp;✦
 
 `Kotlin` · `Flutter` · `Angular` · `Spring Boot` · `PostgreSQL`
 
