@@ -15,8 +15,8 @@ Estudiante de ingeniería con experiencia en prácticas profesionales. Me intere
 </p>
 
 <p align="center">
-  <sub>También: Kotlin · Jetpack Compose · Node.js · Express · TypeScript</sub><br/>
-  <sub>Aprendiendo: Flutter · AWS</sub>
+  <sub>También: Kotlin · Jetpack Compose · TypeScript</sub><br/>
+  <sub>Aprendiendo: AWS</sub>
 </p>
 
 ## Proyectos
@@ -27,7 +27,7 @@ Estudiante de ingeniería con experiencia en prácticas profesionales. Me intere
 | **[JavaAppStudy · Android](https://github.com/jesusvalenciaalcivar-ml/javaappstudy-android)** | App móvil para aprender Java: lecciones interactivas, roadmap visual, glosario, trivias y sistema de logros. Consume la API de arriba. | Kotlin · Jetpack Compose · MVVM · Retrofit · DataStore |
 | **[backend-batidos](https://github.com/jesusvalenciaalcivar-ml/backend-batidos)** | Servicio de pedidos: catálogo de productos y recepción de comprobantes de pago. | Java · Spring Boot |
 | **[dron-control](https://github.com/jesusvalenciaalcivar-ml/dron-control)** | *(pendiente de descripción)* | Kotlin |
-| **INSLocator** *(privado)* | Posicionamiento en interiores sin GPS. Estima la trayectoria a pie con los sensores del teléfono usando dead reckoning con detección de paso y ZUPT. | Kotlin · Jetpack Compose |
+
 
 ## Actividad
 
