@@ -4,7 +4,7 @@
 
 `Java` · `Spring Boot` · `PostgreSQL` · `Angular` · `Docker`
 
-Estudiante de ingeniería con experiencia en prácticas profesionales. Me interesa el desarrollo **backend empresarial**, sobre todo con Java y Spring Boot. También he desarrollado aplicaciones Android nativas y frontends conectados a APIs propias, incluyendo el diseño de la base de datos y los endpoints.
+Soy estudiante de Ingeniería de Software con experiencia en entornos profesionales y una fuerte vocación por la arquitectura de sistemas. Mi enfoque principal es el desarrollo backend corporativo utilizando Java y Spring Boot. A lo largo de mis proyectos y experiencia práctica, he desarrollado una visión integral de las aplicaciones, lo que me permite diseñar bases de datos eficientes, construir APIs propias y conectarlas exitosamente con aplicaciones nativas de Android y plataformas frontend.
 
 [Email](mailto:jesusvalenciaalcivar@gmail.com)
 
