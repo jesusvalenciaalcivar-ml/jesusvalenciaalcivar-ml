@@ -2,7 +2,7 @@
 
 # Jesús Miguel Valencia Alcívar &nbsp;✦
 
-`Kotlin` · `Flutter` · `Angular` · `Spring Boot` · `PostgreSQL`
+`Java` ·  `Angular` · `Spring Boot` · `PostgreSQL` . `Docker`
 
 Construyo apps Android nativas y plataformas web. Estudiante de ingeniería, con experiencia en desarrollo móvil, frontend y backend.
 
