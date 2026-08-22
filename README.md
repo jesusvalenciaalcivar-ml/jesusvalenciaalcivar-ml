@@ -15,7 +15,7 @@ Construyo apps Android nativas y plataformas web. Estudiante de ingeniería, con
 </p>
 
 <p align="center">
-  <sub>También: Kotlin · TypeScript · Jetpack Compose · Express · Flutter </sub>
+  <sub>También aprendiendo: Kotlin · TypeScript · Jetpack Compose · Express · Flutter </sub>
 </p>
 
 ## Proyectos
