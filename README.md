@@ -1,16 +1,36 @@
-## Hi there 👋
+<sub><b>S O F T W A R E &nbsp; D E V E L O P E R &nbsp; · &nbsp; C A Y A M B E , &nbsp; E C</b></sub>
 
-<!--
-**jesusvalenciaalcivar-ml/jesusvalenciaalcivar-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Jesús Valencia Alcívar &nbsp;✦
 
-Here are some ideas to get you started:
+`Kotlin` · `Flutter` · `Angular` · `Spring Boot` · `PostgreSQL`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construyo apps Android nativas y plataformas web. Estudiante de ingeniería, con experiencia en desarrollo móvil, frontend y backend.
+
+[LinkedIn](https://linkedin.com/in/TU_LINKEDIN) · [Email](mailto:TU_CORREO@gmail.com) · [Portafolio](https://TU_SITIO)
+
+## Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,angular,react,nodejs,spring,postgres,firebase&theme=dark" alt="Kotlin, Flutter, Angular, React, Node.js, Spring Boot, PostgreSQL, Firebase" />
+</p>
+
+<p align="center">
+  <sub>También: Java · TypeScript · Jetpack Compose · Express · Docker · Git</sub>
+</p>
+
+## Proyectos
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| **[INSLocator](https://github.com/TU_USUARIO/INSLocator)** | Posicionamiento en interiores sin GPS. Estima la trayectoria a pie con los sensores del teléfono (acelerómetro, giroscopio, vector de rotación) usando dead reckoning con detección de paso y ZUPT. | Kotlin · Jetpack Compose |
+| **DuoCine** | App para ver películas a distancia en sincronía, con videollamada y compartición de pantalla en tiempo real. | Kotlin · Compose · LiveKit · Firebase |
+| **[Agenda Universitaria](https://github.com/TU_USUARIO/agenda-universitaria)** | Agenda de eventos universitarios con notificaciones. Diseño de base de datos y capa de autenticación. | Flutter · Firebase Auth · Data Connect |
+| **[Simulador de cohete de agua](https://github.com/TU_USUARIO/TU_REPO)** | Simulación física de propulsión de dos etapas y vuelo parabólico, resuelta por integración de Euler sobre la ecuación de Torricelli. | Flutter · Dart |
+| **[Consulta SRI](https://github.com/TU_USUARIO/TU_REPO)** | Cliente para el servicio SOAP del SRI: consulta de contribuyentes con parseo de XML y control de rate limit. | Angular · Node.js · Express |
+
+## Actividad
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=22D3EE&count_private=true" alt="Estadísticas de GitHub" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=6" alt="Lenguajes más usados" />
+</p>
