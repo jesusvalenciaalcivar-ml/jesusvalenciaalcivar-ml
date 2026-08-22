@@ -2,11 +2,11 @@
 
 # Jesús Miguel Valencia Alcívar &nbsp;✦
 
-`Java` ·  `Angular` · `Spring Boot` · `PostgreSQL` . `Docker`
+`Java` ·  `Angular` · `Spring Boot` · `PostgreSQL` · `Docker`
 
 Construyo apps Android nativas y plataformas web. Estudiante de ingeniería, con experiencia en desarrollo móvil, frontend y backend.
 
-[LinkedIn](https://linkedin.com/in/TU_LINKEDIN) · [Email](mailto:TU_CORREO@gmail.com) · [Portafolio](https://TU_SITIO)
+[LinkedIn](https://linkedin.com/in/TU_LINKEDIN) · [Email](mailto:TU_CORREO@gmail.com) 
 
 ## Stack
 
