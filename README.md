@@ -30,8 +30,7 @@ Soy estudiante de Ingeniería de Software con experiencia en entornos profesiona
 ## 📊 Actividad
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=jesusvalenciaalcivar-ml&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=22D3EE" alt="Estadísticas de GitHub" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusvalenciaalcivar-ml&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&langs_count=6" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=jesusvalenciaalcivar-ml&layout=compact&theme=dracula&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jesusvalenciaalcivar-ml&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge)
