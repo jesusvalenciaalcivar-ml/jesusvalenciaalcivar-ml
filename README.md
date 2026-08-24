@@ -10,12 +10,12 @@ Soy estudiante de Ingeniería de Software con experiencia en entornos profesiona
 ## 🛠️ Stack Tecnológico
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,docker,githubactions,git,firebase&theme=dark" alt="Java, Spring Boot, PostgreSQL, Angular, Docker, GitHub Actions, Git, Firebase" />
+  <img src="https://skillicons.dev/icons?i=java,spring,postgres,angular,docker,githubactions,git,firebase,redis&theme=dark" alt="Java, Spring Boot, PostgreSQL, Angular, Docker, GitHub Actions, Git, Firebase,Redis" />
 </p>
 
 <p align="center">
   <sub>También se un poco de: Kotlin · Jetpack Compose · TypeScript</sub><br/>
-  <sub>Aprendiendo: AWS</sub>
+  <sub>Aprendiendo: AWS · Redis</sub>
 </p>
 
 ## 🚀 Proyectos Destacados
